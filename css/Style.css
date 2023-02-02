@@ -1,0 +1,37 @@
+/************** TAG SELECTORS **************/
+
+body{
+    background-color: #EAF6F6;
+}
+H1 {
+    color: #66BFBF;
+}
+
+H3 {
+    color: #66BFBF;
+}
+
+hr{
+    background-color: white;
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+img {
+    background-color:#EAF6F6;
+}
+
+/************** CLASS SELECTORS **************/
+
+.logo {
+    background-color:#EAF6F6;
+    height: 150px;
+}
+
+.photoShape {
+    border-radius: 100%;
+}
